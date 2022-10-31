@@ -3,8 +3,8 @@
     /* LOADER */
     .ml-form-embedSubmitLoad {
       display: inline-block;
-      width: 20px;
-      height: 20px;
+      width: 14px;
+      height: 14px;
     }
 
     .g-recaptcha {
@@ -29,8 +29,8 @@
     .ml-form-embedSubmitLoad:after {
       content: " ";
       display: block;
-      width: 11px;
-      height: 11px;
+      width: 7px;
+      height: 7px;
       margin: 1px;
       border-radius: 50%;
       border: 4px solid #fff;
