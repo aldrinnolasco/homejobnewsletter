@@ -102,7 +102,7 @@
       #mlb2-1793233.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent h4,
       #mlb2-1793233.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody .ml-form-successContent h4 {
         color: #000000;
-        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        font-family: 'Inter', Arial, Helvetica, sans-serif;
         font-size: 30px;
         font-weight: 400;
         margin: 0 0 10px 0;
@@ -432,7 +432,7 @@
       .ml-form-formContent.horozintalForm .ml-form-horizontalRow .ml-button-horizontal.labelsOn { padding-top: 25px;  }
       .ml-form-formContent.horozintalForm .ml-form-horizontalRow .horizontal-fields { box-sizing: border-box; float: left; padding-right: 10px;  }
       #mlb2-1793233.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow input {
-        background-color: #ffffff;
+        background-color: red;
         color: #999999;
         border-color: #cccccc;
         border-radius: 6px;
