@@ -522,7 +522,8 @@
         width: 100%;
       }
       #mlb2-1793233.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button {
-        background-color: #7a73ff !important;
+       /* background-color: #7a73ff !important; */
+	   background-color: #ff0000 !important;
         border: none !important;
         border-radius: 6px !important;
         box-shadow: none !important;
